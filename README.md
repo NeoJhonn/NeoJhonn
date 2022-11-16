@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Jhonny Azevedo! 
 - 👀 My go is to work with development.
 - 🌱 I’m currently learning Front and Backend tecnologies.
-- 💞️ I’m looking for my first oportunit to work with I love.
+- 💞️ I'm looking for my first opportunity to work with the job that I love.
 - 📫 To reach me you can send an email for jhonny.azevedo@gmail.com 
 - or whatsapp (+55)4799180-3680.
 
