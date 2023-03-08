@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
-<h3>Hi there, I’m Jhonny Azevedo!<h3/>
+<h2>Hi there, I’m Jhonny Azevedo!<h2/>
 <hr />
 
 Bio
@@ -21,7 +21,9 @@ Bio
     <a href="mailto:jhonny.azevedo@gmail.com">
       <img src="https://img.shields.io/badge/jhonny.azevedo@gmail.com-grey?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
     </a>
-    <img src="https://img.shields.io/badge/(+55)47991803680-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"> </img>
+     <a href="callto:(+55)47991803680">
+       <img src="https://img.shields.io/badge/(+55)47991803680-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"> </img>
+     </a>
   </div>
   
 
