@@ -4,7 +4,6 @@
 
 
 
-
 - 👋 Hi there, I’m Jhonny Azevedo! 
 - 👀 My go is to work with development.
 - 🌱 I’m currently learning Front and Backend tecnologies.
