@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
-<h2>Hi there, I’m Jhonny Azevedo!<h2/>
+<h3>Hi there, I’m Jhonny Azevedo!<h3/>
 <hr />
 
 Bio
