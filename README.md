@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+</div>
+
+
+
 - 👋 Hi there, I’m Jhonny Azevedo! 
 - 👀 My go is to work with development.
 - 🌱 I’m currently learning Front and Backend tecnologies.
