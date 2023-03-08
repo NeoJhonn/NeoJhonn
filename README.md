@@ -21,10 +21,9 @@ Bio
     <a href="mailto:jhonny.azevedo@gmail.com">
       <img src="https://img.shields.io/badge/jhonny.azevedo@gmail.com-grey?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
     </a>
+    <img src="https://img.shields.io/badge/(+55)47991803680-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"> </img>
   </div>
   
-- 📫 To reach me you can send an email for jhonny.azevedo@gmail.com 
-- or whatsapp (+55)4799180-3680.
 
 <!---
 NeoJhonn/NeoJhonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
