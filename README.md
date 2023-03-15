@@ -2,16 +2,33 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
-<h3>Hi there, I’m Jhonny Azevedo!<h3/>
-<hr />
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=NeoJhonn&style=flat-square&color=blue" alt=""/>
+</div>
 
-Bio
+<h3>
+  Hi there, I’m Jhonny Azevedo!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
+<h3/>
+
+
+---
+
+### :man_technologist: About Me :
 
 <p>Since I was a teenager, I always had the dream of working in the technology area, I always had affinities with electronics, with computers and systems. I inherited my father's hairdressing profession, which I work with until today and with it I reached my financial goals. At the moment I'm studying Front and Backend Technologies with the objective of having my professional fulfillment making the career transition to the development area. I have been working for more than 20 years as an entrepreneur in the area of beauty and customer service, always trying to meet their needs, but what makes my eyes shine is the technology area that is constantly evolving and the challenges never end!  
 <p/>
 
-<hr />
-  
+  ---
+
+  ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"        height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
 <hr />
   <h3>📫 To reach me<h3/>
   <div id="badges">
