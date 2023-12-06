@@ -14,14 +14,14 @@
 
 ---
 
-### :man_technologist: About Me :
+### About Me :
 
 <p>Since I was a teenager, I always had the dream of working in the technology area, I always had affinities with electronics, with computers and systems. I inherited my father's hairdressing profession, which I work with until today and with it I reached my financial goals. At the moment I'm studying Front and Backend Technologies with the objective of having my professional fulfillment making the career transition to the development area. I have been working for more than 20 years as an entrepreneur in the area of beauty and customer service, always trying to meet their needs, but what makes my eyes shine is the technology area that is constantly evolving and the challenges never end!  
 <p/>
 
   ---
 
-  ### :hammer_and_wrench: Languages and Tools :
+  ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Netcore" alt=".Netcore" width="40" height="40"/>&nbsp;
