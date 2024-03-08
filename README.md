@@ -16,7 +16,7 @@
 
 ### About Me :
 
-<p>Since I was a teenager, I always had the dream of working in the technology area, I always had affinities with electronics, with computers and systems. I inherited my father's hairdressing profession, which I work with until today and with it I reached my financial goals. At the moment I'm studying Front and Backend Technologies with the objective of having my professional fulfillment making the career transition to the development area. I have been working for more than 20 years as an entrepreneur in the area of beauty and customer service, always trying to meet their needs, but what makes my eyes shine is the technology area that is constantly evolving and the challenges never end!  
+<p>Passionate about the tech since my teenage years, after more than two decades as an entrepreneur in the beauty sector, I decided to pivot into development. I completed two developer training programs, Entra21 2022 (HTML, CSS, JavaScript, MySQL, and C#) and +Devs2Blu 2023 (Java/SpringBoot, Angular, Git, Postgres, MongoDB, and Docker). In 2024, I kicked off my ADS (Analysis and Development of Systems) college journey, aiming not only to acquire knowledge but also to land an internship and put into practice the solid foundation I gained from the training programs, striving for my professional fulfillment!
 <p/>
 
   ---
