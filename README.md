@@ -17,7 +17,7 @@
 ### About Me :
 
 <p>Passionate about the tech since my teenage years, after more than two decades as an entrepreneur in the beauty sector, I decided to pivot into development. I completed two developer training programs, Entra21 2022 (HTML, CSS, JavaScript, MySQL, and C#) and +Devs2Blu 2023 (Java/SpringBoot, Angular, Git, Postgres, MongoDB, and Docker). In 2024, I decided to become a Backend developer, choosing Java/Spring Boot as my main language and framework.
-  ---
+</p>
 
   ### Languages and Tools :
 <div>
