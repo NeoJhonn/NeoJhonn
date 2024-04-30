@@ -16,9 +16,7 @@
 
 ### About Me :
 
-<p>Passionate about the tech since my teenage years, after more than two decades as an entrepreneur in the beauty sector, I decided to pivot into development. I completed two developer training programs, Entra21 2022 (HTML, CSS, JavaScript, MySQL, and C#) and +Devs2Blu 2023 (Java/SpringBoot, Angular, Git, Postgres, MongoDB, and Docker). In 2024, I kicked off my ADS (Analysis and Development of Systems) college journey, aiming not only to acquire knowledge but also to land an internship and put into practice the solid foundation I gained from the training programs, striving for my professional fulfillment!
-<p/>
-
+<p>Passionate about the tech since my teenage years, after more than two decades as an entrepreneur in the beauty sector, I decided to pivot into development. I completed two developer training programs, Entra21 2022 (HTML, CSS, JavaScript, MySQL, and C#) and +Devs2Blu 2023 (Java/SpringBoot, Angular, Git, Postgres, MongoDB, and Docker). In 2024, I decided to become a Backend developer, choosing Java/Spring Boot as my main language and framework.
   ---
 
   ### Languages and Tools :
